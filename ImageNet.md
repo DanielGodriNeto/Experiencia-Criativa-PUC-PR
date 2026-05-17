@@ -1,0 +1,3 @@
+- Aborda o dataset ImageNet e o processo de anotação de imagens utilizando crowdsourcing através do Amazon Mechanical Turk (AMT).
+- Discute os desafios da precisão, observando que usuários humanos podem cometer erros ou discordar entre si.
+- Apresenta métodos para garantir a qualidade dos dados, incluindo testes de definição para os trabalhadores e sistemas de controle de qualidade.

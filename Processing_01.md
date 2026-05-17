@@ -1,0 +1,3 @@
+- Introduz o ambiente de desenvolvimento Processing e seu sistema de coordenadas baseado em pixels, onde a origem (0,0) fica no canto superior esquerdo.
+- Explica a diferença entre o modo estático (processado uma vez) e o modo ativo (estruturado em funções e contínuo).
+- Aborda conceitos fundamentais de programação, como variáveis tipificadas, tipos de dados (int, float, color) e o modelo de cores RGB.

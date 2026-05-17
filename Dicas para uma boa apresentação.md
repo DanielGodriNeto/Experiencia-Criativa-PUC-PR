@@ -1,0 +1,3 @@
+- Oferece um guia de boas práticas para apresentações acadêmicas, dividido em etapas: antes, durante e depois.
+- Sugere que os slides sirvam apenas como guia, evitando textos longos e priorizando pontos-chave e figuras que façam sentido com a fala.
+- Reforça a importância da postura formal, do ensaio do tempo e da busca por feedback após o término.

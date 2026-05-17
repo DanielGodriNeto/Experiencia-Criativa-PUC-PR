@@ -1,0 +1,3 @@
+- Define a IA generativa como um tipo de inteligência artificial capaz de criar conteúdos originais, como textos, imagens e vídeos, em resposta a comandos do usuário.
+- Explica que esses modelos se baseiam em algoritmos de deep learning que simulam o cérebro humano para identificar padrões em grandes quantidades de dados.
+- Lista estratégias fundamentais para a criação de prompts eficazes, como fornecer contexto claro, definir funções para a IA e dividir tarefas complexas em etapas.

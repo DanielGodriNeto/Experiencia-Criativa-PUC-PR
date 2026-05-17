@@ -1,0 +1,2 @@
+- Detalha a implementação técnica de fluxos de navegação e interação entre telas.
+- Utiliza diagramas para representar diferentes tipos de estruturas: navegação livre entre níveis e navegação sequencial (avançar/retroceder).

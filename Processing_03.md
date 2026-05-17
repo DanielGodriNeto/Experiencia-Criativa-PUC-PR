@@ -1,0 +1,3 @@
+- Trata da manipulação de recursos multimídia no Processing, especificamente imagem, som e vídeo.
+- Ensina a carregar e exibir imagens usando o tipo PImage e a biblioteca Minim para reprodução de áudio.
+- Demonstra a integração de vídeo através da Video Library, cobrindo reprodução de arquivos e captura em tempo real pela câmera.

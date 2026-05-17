@@ -1,0 +1,3 @@
+- Oferece uma visão geral das áreas da Ciência da Computação, como IA, Banco de Dados, Segurança e Sistemas.
+- Descreve a postura esperada de um profissional da área, incluindo observação, pesquisa, inovação e prototipação.
+- Apresenta princípios da graduação na PUCPR e alerta sobre o "Brain Rot", a deterioração mental causada pelo consumo excessivo de conteúdo online.

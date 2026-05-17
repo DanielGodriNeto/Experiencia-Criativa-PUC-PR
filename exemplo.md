@@ -1,0 +1,2 @@
+- Mostra um exemplo visual de uma folha de eventos utilizada no desenvolvimento de jogos.
+- Ilustra a lógica de programação para coleta de itens, atualização de variáveis de pontuação (dinheiro) e controle de vidas do jogador.

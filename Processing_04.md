@@ -1,0 +1,3 @@
+- Explica as operações de transformação geométrica no plano: translação, rotação e escala.
+- Mostra como essas operações alteram a posição e o tamanho dos desenhos sem necessariamente mudar os parâmetros originais das funções.
+- Introduz estruturas de navegação para gerenciar múltiplas telas dentro de um mesmo aplicativo de forma assíncrona.

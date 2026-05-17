@@ -1,0 +1,3 @@
+- Fornece um modelo prático para a criação de apresentações de projetos de aplicativos multimídia.
+- Utiliza um projeto sobre adoção de gatos como exemplo para ilustrar a definição de público-alvo, objetivos e a estrutura básica de telas.
+- Demonstra como organizar o fluxo de interação através de diagramas de estados e tabelas de referência de mídias.

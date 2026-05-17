@@ -1,0 +1,3 @@
+- Define o Game Design Document (GDD) como a espinha dorsal de qualquer projeto de jogo, descrevendo todos os seus aspectos.
+- Detalha tópicos vitais como a mecânica de gameplay, condições de vitória e derrota, e a importância de métricas para o personagem principal.
+- Aborda o design de interface, incluindo o HUD (barra de vida, munição, radar) e o planejamento de cutscenes.

@@ -1,0 +1,3 @@
+- Foca na criação de aplicativos interativos no modo ativo, utilizando entradas de mouse e teclado.
+- Demonstra como transformar áreas da tela em botões sensíveis ao clique através do teste de coordenadas.
+- Apresenta o uso de funções como mousePressed() e keyPressed() para gerar respostas dinâmicas do sistema.

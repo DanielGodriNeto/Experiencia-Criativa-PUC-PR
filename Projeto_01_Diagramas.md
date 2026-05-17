@@ -1,0 +1,2 @@
+- Explica o uso de fluxogramas como representações esquemáticas de algoritmos e sequências operacionais de um software.
+- Apresenta o conceito de Máquina de Estado Finita para modelar o comportamento de entidades no sistema.

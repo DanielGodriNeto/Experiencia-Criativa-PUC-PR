@@ -1,0 +1,3 @@
+- Fornece um modelo estruturado para o Game Design Document (GDD), o documento principal de um projeto de jogo.
+- Contém seções detalhadas para descrever a história, a mecânica de gameplay, as características dos personagens e o universo do jogo.
+- Inclui campos para o planejamento de interfaces (HUD), cutscenes e um cronograma semanal de desenvolvimento.

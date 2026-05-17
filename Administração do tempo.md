@@ -1,0 +1,3 @@
+- Este arquivo explica que a administração do tempo consiste em organizar tarefas para aumentar a produtividade e o rendimento diário.
+- Apresenta técnicas como a criação de listas de tarefas, a eliminação de distrações e o foco em uma atividade por vez.
+- Detalha a técnica Pomodoro, que divide o trabalho em blocos de 25 minutos, e ferramentas de priorização como as matrizes GUT e Eisenhower.
